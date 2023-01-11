@@ -1,2 +1,2 @@
 # SudokuGame
-Sudoku game
+Sudoku game in progress
